@@ -4,3 +4,6 @@
 [submodule "KI-B-3-Datenbanken"]
 	path = KI-B-3-Datenbanken
 	url = git@github.com:tj0vtj0v/KI-B-3-Datenbanken.git
+[submodule "KI-B-3-Assistenzsysteme_Garmann"]
+	path = KI-B-3-Assistenzsysteme_Garmann
+	url = git@github.com:tj0vtj0v/KI-B-3-Assistenzsysteme_Garmann.git
