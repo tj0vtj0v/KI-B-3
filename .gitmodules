@@ -7,3 +7,6 @@
 [submodule "KI-B-3-Assistenzsysteme_Garmann"]
 	path = KI-B-3-Assistenzsysteme_Garmann
 	url = git@github.com:tj0vtj0v/KI-B-3-Assistenzsysteme_Garmann.git
+[submodule "KI-B-3-Technikethik_Nachhaltigkeit_Wissenschaftliches-Arbeiten"]
+	path = KI-B-3-Technikethik_Nachhaltigkeit_Wissenschaftliches-Arbeiten
+	url = git@github.com:timesleep5/KI-B-3-Technikethik_Nachhaltigkeit_Wissenschaftliches-Arbeiten.git
